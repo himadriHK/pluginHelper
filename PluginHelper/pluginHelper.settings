@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PluginHelper" GeneratedClassName="pluginHelper">
+  <Profiles />
+  <Settings>
+    <Setting Name="NetworkPathForTemplateCollection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\ap-bglr-fsei.internal.sungard.corp\CFS\Ambit Asset Finance\Himadri\PluginHelper</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
